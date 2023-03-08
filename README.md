@@ -33,6 +33,7 @@
 An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
 ---
+注意windows的安装脚本有问题, $LV_BRANCH='release-1.2/neovim-0.8';  Invoke-WebRequest https://raw.githubusercontent.com/LostNeophyte/LunarVim/fix/win-installer/utils/installer/install.ps1 -UseBasicParsing | Invoke-Expression用这个
 
 **[<kbd> <br> Install <br> </kbd>][Install]** 
 **[<kbd> <br> Configure <br> </kbd>][Configure]** 
